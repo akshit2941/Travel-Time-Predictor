@@ -1,6 +1,4 @@
 # Travel Time Predictor - Travelia
-```markdown
-# Travel Time Predictor - Travelia
 
 ## Overview
 
@@ -68,9 +66,5 @@ Travelia is a web application that predicts travel time between two cities based
    ```http
    GET http://127.0.0.1:5000/time?city1=CityA&city2=CityB&desired_time=08:30
    ```
-
-## License
-This project is licensed under the MIT License.
-```
 
 Feel free to use this as your README file for the Travel Time Predictor - Travelia project on GitHub.
